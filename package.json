@@ -1,0 +1,9 @@
+{
+  "name": "instagram-netlify-api",
+  "version": "1.0.0",
+  "description": "Netlify Instagram media resolver API",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  }
+}
